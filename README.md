@@ -3,7 +3,6 @@
 
 <br>
 <br>
-<br>
 
 ## Notice
 - Install selenium webdriver with `python -m pip install selenium` in Terminal.
